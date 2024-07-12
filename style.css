@@ -1,0 +1,57 @@
+.cover-page{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    background-color: #151515;
+    flex-direction: column;
+    gap: 40px;
+}
+
+.feature-icon {
+  width: 4rem;
+  height: 4rem;
+  border-radius: .75rem;
+}
+
+.hero{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 10px;
+}
+
+.icon-holder{
+    display: flex;
+    height: 150px;
+    width: 150px;
+    background-color:#C73659;
+    justify-content: center;
+    align-items: center;
+    border-radius: 50%;
+    
+}
+
+.playfair-display {
+  font-family: "Playfair Display", serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+  color: #A91D3A;
+}
+
+.title{
+    font-size: 60px;
+    letter-spacing: 5px;
+}
+
+
+
+.source-sans-3 {
+  font-family: "Source Sans 3", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+  color: #C73659;
+}
+
